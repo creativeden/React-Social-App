@@ -41,7 +41,7 @@
 - Клонировать репозиторий
 
 ```js
-git clone
+git clone https://github.com/harryheman/React-Social-App.git
 ```
 
 - Установить зависимости сервера и клиента
